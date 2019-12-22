@@ -1,0 +1,7 @@
+C:\Users\dusti\source\repos\Taohelp\bin\Debug\Taohelp.exe.config
+C:\Users\dusti\source\repos\Taohelp\bin\Debug\Taohelp.exe
+C:\Users\dusti\source\repos\Taohelp\bin\Debug\Taohelp.pdb
+C:\Users\dusti\source\repos\Taohelp\obj\Debug\Taohelp.csprojAssemblyReference.cache
+C:\Users\dusti\source\repos\Taohelp\obj\Debug\Taohelp.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\Taohelp\obj\Debug\Taohelp.exe
+C:\Users\dusti\source\repos\Taohelp\obj\Debug\Taohelp.pdb
